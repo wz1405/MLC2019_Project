@@ -1,1 +1,0 @@
-poi and transit stations
