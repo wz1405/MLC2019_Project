@@ -1,4 +1,5 @@
 # Valid Features
+## Numerical
 - 'DensityPop': Population Density
 - 'IncomePerCap': Income per capita ($)
 - 'Poverty': under poverty level rate (%)
@@ -18,6 +19,10 @@
 - 'FELONY': Number of felony crimes in the a quarter mile buffer
 - 'VIOLATION': Number of violation crimes in the a quarter mile buffer
 - 'MISDEMEANOR': Number of misdemeanor crimes in the a quarter mile buffer
+
+## Categorical
+
+
 
 # Dataset Catalogue
 ## Transportation
