@@ -1,3 +1,24 @@
+# Valid Features
+- 'DensityPop': Population Density
+- 'IncomePerCap': Income per capita ($)
+- 'Poverty': under poverty level rate (%)
+- 'Professional': % employed in management, business, science, and arts
+- 'Service': % employed in service jobs
+- 'Office': % employed in sales and office jobs
+- 'Construction': % employed in natural resources, construction, and maintenance
+- 'Production': % employed in production, transportation, and material movement
+- 'Employed': employed rate (16+) (%)
+- 'Unemployment': Unemployment rate (%)
+- 'distance_subway': Distance to the nearest subway entrance
+- 'distance_bus': Distance to the nearest bus stop
+- 'park_num': Number of parks in the a quarter mile buffer
+- 'park_area': Total area of parks in the a quarter mile buffer (acre)
+- 'park_top_level': Top level of parks in the a quarter mile buffer
+- 'park_distance': Distance to the nearest park
+- 'FELONY': Number of felony crimes in the a quarter mile buffer
+- 'VIOLATION': Number of violation crimes in the a quarter mile buffer
+- 'MISDEMEANOR': Number of misdemeanor crimes in the a quarter mile buffer
+
 # Dataset Catalogue
 ## Transportation
 - Subway/bus/ferry station
