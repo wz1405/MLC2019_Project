@@ -4,7 +4,7 @@ For MLC class 2019
 ## Data wrangling
 
 ## Preprocessing
-### Normalize
+### Normalize / whitening
 ### PCA
 
 ## Modeling
