@@ -6,7 +6,8 @@ For MLC class 2019
 
 ## Preprocessing
 ### Anomaly Detection
-### Normalize / whitening
+### Gaussian Stats Test
+### Normalize / Whitening
 ### PCA
 <br> 
 
