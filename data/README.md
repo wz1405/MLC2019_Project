@@ -1,4 +1,4 @@
-# Datasets Catalogue
+# Dataset Catalogue
 ## Transportation
 - Subway/bus/ferry station
 - Environment: Park
@@ -19,7 +19,7 @@
 ## Parking (missed)
 
 
-# Datasets Source
+# Dataset Source
 ## BBL: Building Footprints
 https://data.cityofnewyork.us/Housing-Development/Building-Footprints/nqwf-w8eh
 
