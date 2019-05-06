@@ -2,10 +2,12 @@
 For MLC class 2019
 
 ## Data wrangling
+<br> 
 
 ## Preprocessing
 ### Normalize / whitening
 ### PCA
+<br> 
 
 ## Modeling
 ### Multivariate linear regression model
