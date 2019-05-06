@@ -5,6 +5,7 @@ For MLC class 2019
 <br> 
 
 ## Preprocessing
+### Anomaly Detection
 ### Normalize / whitening
 ### PCA
 <br> 
@@ -19,5 +20,4 @@ For MLC class 2019
 ### Bayesian Methods
 ### Bayesian Networks
 ### Gaussian Processes
-### Anomaly Detection
 ### Clustering
