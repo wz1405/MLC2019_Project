@@ -1,4 +1,4 @@
-# Valid Features
+# Features
 ## Numerical
 - 'DensityPop': Population Density
 - 'IncomePerCap': Income per capita ($)
