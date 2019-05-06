@@ -16,9 +16,10 @@
 - Yelp
 - Google POI
 
-# Datasets Source
 ## Parking (missed)
 
+
+# Datasets Source
 ## BBL: Building Footprints
 https://data.cityofnewyork.us/Housing-Development/Building-Footprints/nqwf-w8eh
 
@@ -48,7 +49,7 @@ https://data.cityofnewyork.us/City-Government/Parks-Properties/k2ya-ucmv
 https://data.cityofnewyork.us/City-Government/Parks-Zones/rjaj-zgq7
 
 ## Crime
-https://maps.nyc.gov/crime/  
+map: https://maps.nyc.gov/crime/  
 2006-2015: https://data.cityofnewyork.us/Public-Safety/NYPD-Complaint-Map-Historic-/57mv-nv28  
 2017: https://data.cityofnewyork.us/Public-Safety/NYC-crime/qb7u-rbmr  
 All until 2018: https://data.cityofnewyork.us/Public-Safety/NYPD-Complaint-Data-Current-Year-To-Date-/5uac-w243/data  
